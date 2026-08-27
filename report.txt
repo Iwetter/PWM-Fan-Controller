@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-F_Cu.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-B_Cu.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-F_Paste.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-B_Paste.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-F_Mask.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-B_Mask.gbr'.
+Plotted to 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ianha\OneDrive\Documents\pwmpcb\pwmpcb-job.gbrjob'.
+Info: Done.
