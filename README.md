@@ -14,11 +14,11 @@ The 555 timer generates the PWM control signal, while an IRLZ44N MOSFET acts as 
 
 The fan speed is adjusted using a potentiometer that changes the behavior of the 555 timer's timing network.
 
-## Final Prototype
+## Circuit Preview
 
-![Final Prototype](images/final-prototype.jpg)
+![PWM controller schematic](Incredible%20Bigery-Gaaris.png)
 
-*Breadboard implementation of the PWM fan-speed controller.*
+*Project schematic showing the timer, MOSFET switching stage, and motor load. The report below documents the build.*
 
 ## How It Works
 
@@ -89,7 +89,7 @@ A diode is used across the fan to provide a safe path for this current and prote
 
 ## Circuit Design
 
-![Circuit Schematic](images/circuit-schematic.png)
+[Open the project schematic](Incredible%20Bigery-Gaaris.png).
 
 The circuit can be viewed as two main functional sections:
 
@@ -139,7 +139,7 @@ One of the biggest lessons from this project was that creating a working circuit
 
 Future versions of the project could include:
 
-* A cleaner PCB or permanent circuit layout
+* Fabrication and validation of the included PCB design
 * Oscilloscope measurements of PWM duty cycle
 * Fan RPM measurement
 * More precise speed control
@@ -148,7 +148,11 @@ Future versions of the project could include:
 
 ## Project Documentation
 
-Additional project documentation and presentation material can be found in the `docs` folder.
+- [Project report (PDF)](PWM%20Fan%20Speed%20Controller%20Using%20a%20555%20Timer%20%281%29.pdf)
+- [PCB design archive](PCB_Design.zip)
+- [Breadboard simulation layout](Screenshot%202026-08-26%20220855.png)
+
+The repository includes design and report artifacts. New oscilloscope, RPM, or efficiency measurements were not collected during this documentation update.
 
 ## Author
 
